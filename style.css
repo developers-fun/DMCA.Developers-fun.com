@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Tilt";
+    src: url("https://developers-fun.com/Tilt.ttf");
+  }
+body{
+    background-color: hsl(280, 36%, 12%);
+    font-family: "Tilt";
+    color: white;
+    margin: 0;
+}
+d1, navbar-brand js-scroll-trigger{
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
